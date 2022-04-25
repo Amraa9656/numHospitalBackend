@@ -1,0 +1,6 @@
+num\edu\mn\controller\UserController.class
+num\edu\mn\repo\UserRepository.class
+num\edu\mn\UserApplication.class
+num\edu\mn\service\UserService.class
+num\edu\mn\domain\User.class
+num\edu\mn\service\UserServiceImpl.class

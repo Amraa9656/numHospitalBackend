@@ -1,0 +1,15 @@
+server:
+  port: 8082
+#  port: 0
+  servlet:
+    context-path: /doctor-service
+spring:
+  application:
+    name: doctor-service
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    serviceUrl:
+      defaultZone: http://localhost:8763/eureka/

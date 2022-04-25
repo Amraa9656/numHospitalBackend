@@ -1,0 +1,10 @@
+num\edu\mn\doctor\repo\VitalsignsRepo.class
+num\edu\mn\doctor\service\VitalsignServiceImpl.class
+num\edu\mn\doctor\domain\Vitalsigns.class
+num\edu\mn\doctor\DoctorApplication.class
+num\edu\mn\doctor\controller\DoctorController.class
+num\edu\mn\doctor\service\InspectionService.class
+num\edu\mn\doctor\service\InspectionServiceImpl.class
+num\edu\mn\doctor\service\VitalsignsService.class
+num\edu\mn\doctor\domain\Inspection.class
+num\edu\mn\doctor\repo\InspectionRepo.class

@@ -1,0 +1,12 @@
+num\edu\mn\auth\security\SecurityConfig.class
+num\edu\mn\auth\api\UserResource.class
+num\edu\mn\auth\repo\RoleRepo.class
+num\edu\mn\auth\filter\CustomAuthorizationFilter.class
+num\edu\mn\auth\AuthApplication.class
+num\edu\mn\auth\repo\UserRepo.class
+num\edu\mn\auth\service\UserServiceImpl.class
+num\edu\mn\auth\service\UserService.class
+num\edu\mn\auth\api\RoleToForm.class
+num\edu\mn\auth\filter\CustomAuthenticationFilter.class
+num\edu\mn\auth\domain\User.class
+num\edu\mn\auth\domain\Role.class

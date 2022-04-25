@@ -1,0 +1,23 @@
+server:
+#  port : 0
+  port: 8081
+  servlet:
+    context-path: /user-service
+#  servlet:
+#    contexPath=/user
+spring:
+  application:
+    name: user-service
+
+management:
+  health:
+    livenessState.enabled: true
+    readinessState.enabled: true
+  endpoint.health.probes.enabled: true
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    serviceUrl:
+      defaultZone: http://localhost:8763/eureka/
